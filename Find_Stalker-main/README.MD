@@ -21,4 +21,5 @@ If you are passionate about combating stalking and protecting privacy, we welcom
 
 ## Contact
 For inquiries and collaboration opportunities, please contact [project email or contact information].
+![Book Recommendation System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4UJP8NHuKjQ34J-SqrUsOkUn4LgI4TQwFA3vAtqkvw&shere)
 
