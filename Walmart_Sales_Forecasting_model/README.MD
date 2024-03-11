@@ -1,4 +1,4 @@
-## Walmart Sales Prediction Project 🏬🏬🏬
+## Walmart Sales Prediction Project 🏬
  🧑‍🏫**Overview** 🧑‍🏫
 
 This project involves an in-depth analysis of Walmart sales data and the development of predictive models to forecast future sales. The process consists of several key steps including data exploration, exploratory data analysis, data preprocessing, data manipulation, feature selection, and predictive modeling.
