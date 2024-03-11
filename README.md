@@ -1,4 +1,4 @@
-# Flutter Projects 👩‍💻
+# Developer Projects 👩‍💻
 
 ## Projects Overview:
 1. **Find Stalker App** 🔍
@@ -24,7 +24,7 @@
 
 ## Project Descriptions:
 1. **Find Stalker App** 🕵️‍♂️
-   - This app is developed to find and address cyberbullying. It helps to locate the perpetrator, retrieve their email ID, and phone number for further action.
+   - This app is developed to find and address cyberbullying. It helps to locate the perpetrator, and retrieve their email ID, and phone number for further action.
 
 2. **Gemini Pro Gen-AI App** 🧠
    - Features:
@@ -54,7 +54,8 @@
      learn. It includes data preparation, code integration, data loading and exploration, data visualization, model building, and recommendation generation.
 
 7. **predicting_walmart_sales**🏪
-   - d
+   - This project involves an in-depth analysis of Walmart sales data and the development of predictive models to forecast future sales. The consists of several 
+     key steps including data exploration, exploratory data analysis, data preprocessing, data manipulation, feature selection, and modeling.
 
 ## Instructions:
 - The source code for each project can be found in their respective folders in this repository.
@@ -67,6 +68,17 @@
 ## Contributions:
 - Contributions are welcome. Feel free to fork this repository and submit pull requests with your improvements.
 
-## License:
-- [Include license information here]
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Get In Touch
+
+For any queries, feel free to contact:
+
+📧 Email: example@email.com  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/your_profile)  
+
+---
+*This Repository was created by [User Name]*
 
