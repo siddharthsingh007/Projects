@@ -1,6 +1,6 @@
 # Innovation Hub: Machine Learning and App Development Showcases 🚀
 
-![System](https://static.thenounproject.com/png/2010152-200.png)
+![System](https://img.freepik.com/free-vector/technology-artifical-intelligence-background-with-face_1017-18298.jpg)
 
 
 ## Projects Overview: 📝
