@@ -1,6 +1,6 @@
 # Innovation Hub: Machine Learning and App Development Showcases 🚀
 
-![Book Recommendation System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4UJP8NHuKjQ34J-SqrUsOkUn4LgI4TQwFA3vAtqkvw&shere)
+![System](https://static.thenounproject.com/png/2010152-200.png)
 
 
 ## Projects Overview: 📝
