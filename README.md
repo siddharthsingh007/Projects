@@ -88,4 +88,4 @@ For any queries, feel free to contact:
 ## THANK-YOU FOR YOUR VALUABLE TIME HERE
 ![System](https://media.licdn.com/dms/image/D4D03AQFriY6jfSMDRQ/profile-displayphoto-shrink_400_400/0/1708422208116?e=1715817600&v=beta&t=iX91ZM0yI2Qslis2DLkJSMC88Q9gHjf2LLINUqC1RgA)
 
-[My LinkedIn Profile](https://www.linkedin.com/in/siddharthpratapsingh30/)
+[My LinkedIn Profile 🖇️](https://www.linkedin.com/in/siddharthpratapsingh30/)
