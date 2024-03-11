@@ -37,6 +37,11 @@
    - Description:
      The Meditation UI app provides a serene and tranquil platform for guiding users through meditation and mindfulness practices, fostering inner peace and well-being.
 
+5. **React-NFT-Website-getting-started**
+   - Our React-NFT website is a cutting-edge platform built with Create React App. It offers a seamless development experience with available scripts such as npm 
+     start, npm test, npm run build, and more. The site is optimized for production, leveraging React's performance benefits, and is prepared for effortless 
+     deployment. Ready to elevate your NFT experience?
+
 ## Instructions:
 - The source code for each project can be found in their respective folders in this repository.
 
