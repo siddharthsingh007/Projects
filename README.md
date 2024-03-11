@@ -11,9 +11,16 @@
 
 5. **React-NFT-Website-getting-started** 📱
 
+6. **book_recommendation_system** 📚
+
+7. **predicting_walmart_sales**🏪
+
 ## Programming Stack:
 - Flutter 👩‍💻
 - Dart 👩‍💻
+- Python 🐍
+- DSA 🧠
+- Machine Learning 🤖
 
 ## Project Descriptions:
 1. **Find Stalker App** 🕵️‍♂️
@@ -41,6 +48,13 @@
    - Our React-NFT website is a cutting-edge platform built with Create React App. It offers a seamless development experience with available scripts such as npm 
      start, npm test, npm run build, and more. The site is optimized for production, leveraging React's performance benefits, and is prepared for effortless 
      deployment. Ready to elevate your NFT experience?
+
+6. **book_recommendation_system** 📚
+   - This guide outlines the steps to utilize a book recommendation system in your own projects. The system is based on Python and incorporates libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit- 
+     learn. It includes data preparation, code integration, data loading and exploration, data visualization, model building, and recommendation generation.
+
+7. **predicting_walmart_sales**🏪
+   - d
 
 ## Instructions:
 - The source code for each project can be found in their respective folders in this repository.
