@@ -1,6 +1,6 @@
-# Developer Projects 👩‍💻
+# Innovation Hub: Machine Learning and App Development Showcases 🚀
 
-## Projects Overview:
+## Projects Overview: 📝
 1. **Find Stalker App** 🔍
    
 2. **Gemini Pro Gen-AI App** 🤖
